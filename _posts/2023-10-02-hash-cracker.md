@@ -1,7 +1,6 @@
 ---
 title: "Password Hash Cracker"
 date: 2023-02-10
-img_path: /writeimgs/hashcracker/
 categories:
   - Tools
   - Cracker
@@ -24,6 +23,6 @@ for hashl in hashes:
 ```
 
 To use this script, we simply place the hashes in a txt file, and then run the script.
-<div align="center"><img src= "crack1.png/"></div>
+<div align="center"><img src= "/writeimgs/hashcracker/crack1.png">
 
-<img src= "crack2.png">
+<img src= "/writeimgs/hashcracker/crack2.png">
